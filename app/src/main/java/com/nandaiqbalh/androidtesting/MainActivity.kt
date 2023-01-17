@@ -1,4 +1,4 @@
-git package com.nandaiqbalh.androidtesting
+package com.nandaiqbalh.androidtesting
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
